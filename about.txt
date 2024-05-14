@@ -1,0 +1,11 @@
+Login System: Users (students and teachers) can log in with their credentials to access the system.
+
+Student Attendance: Students can mark their attendance by logging in with their username and password.
+
+Teacher Dashboard: Teachers can log in to view attendance records of all students.
+
+Filtering Attendance: Teachers can filter attendance records to view only present students.
+
+Database Integration: The system integrates with a MySQL database to store student information and attendance records.
+
+GUI Interface: The project provides a graphical user interface (GUI) for easy interaction with the system.
